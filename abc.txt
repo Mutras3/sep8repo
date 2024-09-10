@@ -1,1 +1,2 @@
 This is the text file.
+now it is updated.
